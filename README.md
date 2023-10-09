@@ -1,6 +1,6 @@
 <h3 align="left">Data Scientist and Swift enthusiast</h3>
 
-- 📫 How to reach me **yahyamomtaz@gmail.com**
+📫 Contact me by **yahyamomtaz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

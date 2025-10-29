@@ -4,7 +4,7 @@
 
 #### I’m a tech geek at heart who loves developing products, specialized in data science, cloud infrastructure, and AI. Experienced in Python, with expertise in API development and a touch of front-end.
 
-### Visit my website: <a href="https://yayamomt.tech" target="_blank">
+### Visit my website: https://yayamomt.tech
 
 ## 🔧 Tech Stack  
 <p align="left">

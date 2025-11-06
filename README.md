@@ -2,7 +2,7 @@
 
 💡 *Data Scientist*
 
-#### I’m a tech geek at heart who loves developing products, specialized in data science, cloud infrastructure, and AI. Experienced in Python, with expertise in API development and a touch of front-end.
+#### I’m a tech geek at heart who loves developing products.
 
 ### Visit my website: https://yayamomt.tech
 

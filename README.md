@@ -1,8 +1,8 @@
-# Hi there 👋, I'm Yahya Momtaz 
+# Hi there 👋, I'm Yaya
 
 💡 *Data Scientist*
 
-#### I’m a tech geek at heart who loves developing.
+## I’m a tech geek at heart who loves developing.
 
 ### Visit my website: https://yayamomt.tech
 

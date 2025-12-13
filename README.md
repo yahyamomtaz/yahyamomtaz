@@ -6,7 +6,8 @@
 
 ## 🔧 Tech Stack  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,flask,docker,airflow,gcp,aws,react,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,flask,docker,gcp,aws,react,js,html,css" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="48"/>
 </p>  
 
 

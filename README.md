@@ -6,7 +6,7 @@
 
 ## 🔧 Tech Stack  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,flask,docker,gcp,aws,react,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,flask,docker,airflow,gcp,aws,react,js,html,css" />
 </p>  
 
 

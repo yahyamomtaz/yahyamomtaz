@@ -7,7 +7,7 @@
 ## 🔧 Tech Stack  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,flask,docker,gcp,aws,react,js,html,css" />
-  <img src="[https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo-dark.svg](https://unpkg.com/@lobehub/icons-static-svg@1.78.0/icons/LangChain.svg)" height="48"/>
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@1.78.0/icons/LangChain.svg" height="48"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="48"/>
 </p>  
 

@@ -5,9 +5,9 @@
 ### Visit my website: https://yayamomt.tech
 
 ## 🔧 Tech Stack  
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,flask,docker,gcp,aws" />
-  <img src="https://cdn.simpleicons.org/langchain/00A67E" height="64"/>
+  <img src="https://cdn.simpleicons.org/langchain/00A67E" height="64" style="vertical-align: middle;/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="48"/>
   <img src="https://skillicons.dev/icons?i=react,js,html,css" />
 </p>  

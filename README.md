@@ -1,10 +1,9 @@
-# Hi there 👋, I'm Yaya
+# Hi 👋, I'm Yaya
 
-### I’m a tech geek at heart who loves developing.
+### A tech geek at heart who loves developing.
 
 ### Visit my website: https://yayamomt.tech
 
-## 🔧 Tech Stack  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,flask,docker,gcp,aws" />
   <img src="https://cdn.simpleicons.org/langchain/00A67E" height="64" style="vertical-align: middle;"/>
@@ -14,7 +13,7 @@
 
 
 
-## 📝 Publications  
+## Publications  
 
 📜 <a href="https://www.mdpi.com/2079-9292/14/15/3083">*Modular Pipeline for Text Recognition in Early Printed Books Using Kraken and ByT5*</a> — J. Electronics (2025)  
 
@@ -23,8 +22,6 @@
 🎤 <a href="https://aiucd2025.dlls.univr.it/assets/pdf/papers/18.pdf">*Preserving Clarity: MAGIC Project Approach*</a> — AIUCD Conference, Verona (2025)
 
 
-
-## 📫 Let’s Connect  
 
 <p align="left">
   <a href="mailto:yahyamomtaz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>

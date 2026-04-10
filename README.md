@@ -11,7 +11,13 @@
   <img src="https://skillicons.dev/icons?i=react,js,html,css" />
 </p>  
 
+## Apps
 
+<a href="https://aiimagelive.web.app/">*Ai Image*</a>
+
+<a href="https://bleed-through-cleaner-app-469035949643.europe-west1.run.app/">*Bleed-Through Cleaner*</a>
+
+<a href="https://apps.apple.com/it/app/scape-inout/id6449718680">*Scape InOut*</a>
 
 ## Publications  
 

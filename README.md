@@ -1,4 +1,4 @@
-# Hi 👋, I'm Yaya
+# Ciao
 
 ### A tech geek at heart who loves developing.
 
